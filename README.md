@@ -1,27 +1,27 @@
+### Hi there 👋, my name is Robiul Islam Hridoy
+#### I'm a web developer
+![I'm a web developer](https://github.com/robiulhridoy/robiulhridoy/blob/main/website-development-banner-115499969388lthysod9v.png)
 
-<h1 align="center">Hi 👋, I'm a student</h1>
-<h3 align="center">Web developer</h3>
+i like to learn something new.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robiulhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="robiulhridoy" /> </p>
+Skills:  HTML / CSS
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robiulhridoy" alt="robiulhridoy" /></a> </p>
+- 🌱 I’m currently learning HTML/CSS 
+- 📫 How to reach me: robiulislamhridoy1293@gmail.com 
+- ⚡ Fun fact: I think i am funny 
 
-- 🌱 I’m currently learning **HTML, CSS**
 
-- 💬 Ask me about **React**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/robiulhridoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61555139963288)  
 
-- 📫 How to reach me **robiulislamhridoy1293@gmail.com**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- ⚡ Fun fact **I think i am funny**
+[![trophy](https://github-profile-trophy.vercel.app/?username=robiulhridoy)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/robiul hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="robiul hridoy" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robiulhridoy)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=robiulhridoy&show_icons=true)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robiulhridoy&show_icons=true&locale=en&layout=compact" alt="robiulhridoy" /></p>
+![GitHub metrics](https://metrics.lecoq.io/robiulhridoy)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robiulhridoy&show_icons=true&locale=en" alt="robiulhridoy" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=robiulhridoy)  
+
